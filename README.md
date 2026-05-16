@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://facebook.com/dhanoj singh"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://instagram.com/dhanoj.singh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/Dhanoj kumar singh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dhanoj-kumar-singh-58ab8b230/"/></a>
 <a href="mailto:dhanojkumar783@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
